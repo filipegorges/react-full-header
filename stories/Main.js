@@ -43,12 +43,12 @@ storiesOf('<FullHeader />', module)
             bgImg="https://raw.githubusercontent.com/willianjusten/photo-examples/master/iceland-glacier.jpg"
         />
     ))
-    .add('with title, subtitle, bgColor, textColor, video', () => {
+    .add('with title, subtitle and video', () => (
         <FullHeader
             title="TDD"
             subtitle="Curso de JS com TDD na prática."
             bgColor="#EBE9EB"
             textColor="#3299BB"
-            video="https://github.com/filipegorges/react-full-header/blob/master/videos/typing.mp4"
+            video="http://mazwai.com/system/posts/videos/000/000/110/original/alessio_balza--humans.mp4?1410742308"
         />
-    });
+    ));
