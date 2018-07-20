@@ -45,10 +45,11 @@ storiesOf('<FullHeader />', module)
     ))
     .add('with title, subtitle and video', () => (
         <FullHeader
-            title="TDD"
-            subtitle="Curso de JS com TDD na prática."
-            bgColor="#EBE9EB"
-            textColor="#3299BB"
-            video="http://mazwai.com/system/posts/videos/000/000/110/original/alessio_balza--humans.mp4?1410742308"
+            title="FullHeader component"
+            subtitle="a header component with video support"
+            bgColor="#bbb"
+            textColor="#d5fd07"
+            font="Helvetica"
+            video="http://mazwai.com/system/posts/videos/000/000/161/original/leonard_soosay--missfit.mp4?1424004876"
         />
     ));
