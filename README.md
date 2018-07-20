@@ -1,5 +1,6 @@
 # React Full Header
 [![Build Status](https://travis-ci.org/filipegorges/react-full-header.svg?branch=master)](https://travis-ci.org/filipegorges/react-full-header)
+[![Coverage Status](https://coveralls.io/repos/github/filipegorges/react-full-header/badge.svg?branch=master)](https://coveralls.io/github/filipegorges/react-full-header?branch=master)
 
 Udemy course: https://www.udemy.com/js-com-tdd-na-pratica
 
