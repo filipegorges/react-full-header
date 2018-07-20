@@ -49,6 +49,6 @@ storiesOf('<FullHeader />', module)
             subtitle="Curso de JS com TDD na prática."
             bgColor="#EBE9EB"
             textColor="#3299BB"
-            video="https://github.com/filipegorges/react-full-header/videos/typing.mp4"
+            video="https://github.com/filipegorges/react-full-header/blob/master/videos/typing.mp4"
         />
     });
