@@ -26,7 +26,7 @@ const FullHeader = ({ title, subtitle, bgColor, textColor, font, bgImg, video })
         backgroundImage: `url(${bgImg})`,
         color: textColor,
         fontFamily: font,
-    }
+    };
 
     const component = (
         <header style={headerStyleCombined}>

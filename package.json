@@ -1,6 +1,6 @@
 {
-  "name": "react-full-header",
-  "version": "0.0.1",
+  "name": "reuwsaat-react-full-header",
+  "version": "1.0.0",
   "description": "A full header React component.",
   "main": "dist/Main.js",
   "scripts": {
