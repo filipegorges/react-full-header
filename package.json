@@ -1,7 +1,7 @@
 {
-  "name": "lyef-react-component",
-  "version": "1.1.2",
-  "description": "An opinionated boilerplate for reusable and declouped react components.",
+  "name": "react-full-header",
+  "version": "0.0.1",
+  "description": "A full header React component.",
   "main": "dist/Main.js",
   "scripts": {
     "build": "npm run clean && npm run babel && npm run minify",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lyef/lyef-react-component.git"
+    "url": "git+ssh://git@github.com/filipegorges/react-full-header.git"
   },
   "keywords": [
     "react",
@@ -38,9 +38,9 @@
   "author": "lyef (http://lyef.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lyef/lyef-react-component/issues"
+    "url": "https://github.com/filipegorges/react-full-header/issues"
   },
-  "homepage": "https://github.com/lyef/lyef-react-component#README",
+  "homepage": "https://github.com/filipegorges/react-full-header#README",
   "devDependencies": {
     "@personare/react-storybook-decorator-github-corner": "^0.1.4",
     "@storybook/react": "^3.1.5",
@@ -52,6 +52,7 @@
     "babel-preset-airbnb": "^2.0.0",
     "babel-register": "^6.24.1",
     "chai": "^3.5.0",
+    "chai-enzyme": "^1.0.0-beta.1",
     "enzyme": "^3.0.0",
     "enzyme-adapter-react-16": "^1.0.0",
     "eslint": "^2.13.1",
