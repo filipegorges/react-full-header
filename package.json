@@ -1,6 +1,6 @@
 {
   "name": "reuwsaat-react-full-header",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A full header React component.",
   "main": "dist/Main.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "component",
     "base"
   ],
-  "author": "lyef (http://lyef.github.io/)",
+  "author": "Filipe Gorges Reuwsaat (http://filipegorges.github.io/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/filipegorges/react-full-header/issues"
